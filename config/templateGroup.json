@@ -2,25 +2,19 @@
   {
     "id": "7:7",
     "path": "Halloween.json",
-    "size": 10,
+    "size": 8,
     "title": "Halloween"
-  },
-  {
-    "id": "77:2",
-    "path": "Travel.json",
-    "size": 10,
-    "title": "Travel"
   },
   {
     "id": "77:183",
     "path": "Postcard.json",
-    "size": 10,
+    "size": 8,
     "title": "Postcard"
   },
   {
     "id": "44:2",
     "path": "Life.json",
-    "size": 10,
+    "size": 8,
     "title": "Life"
   },
   {
@@ -30,21 +24,9 @@
     "title": "Selfie"
   },
   {
-    "id": "7:6",
-    "path": "Summer.json",
-    "size": 10,
-    "title": "Summer"
-  },
-  {
-    "id": "7:8",
-    "path": "Easter.json",
-    "size": 10,
-    "title": "Easter"
-  },
-  {
     "id": "7:10",
     "path": "Retro.json",
-    "size": 10,
+    "size": 7,
     "title": "Retro"
   }
 ]
