@@ -1,1 +1,93 @@
-[{"id":"Christmas 5","key":"461:354","name":"Christmas 5","thumbnail":"https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 5.png","url":"https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 5.zip"},{"id":"Christmas 8","key":"461:357","name":"Christmas 8","thumbnail":"https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 8.png","url":"https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 8.zip"},{"id":"Christmas 7","key":"461:363","name":"Christmas 7","thumbnail":"https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 7.png","url":"https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 7.zip"},{"id":"Christmas 2","key":"461:371","name":"Christmas 2","thumbnail":"https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 2.png","url":"https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 2.zip"},{"id":"Christmas 1","key":"461:374","name":"Christmas 1","thumbnail":"https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 1.png","url":"https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 1.zip"},{"id":"Christmas 9","key":"461:385","name":"Christmas 9","thumbnail":"https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 9.png","url":"https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 9.zip"},{"id":"Christmas 10","key":"461:391","name":"Christmas 10","thumbnail":"https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 10.png","url":"https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 10.zip"},{"id":"Christmas 11","key":"509:2","name":"Christmas 11","thumbnail":"https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 11.png","url":"https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 11.zip"},{"id":"Christmas 12","key":"509:6","name":"Christmas 12","thumbnail":"https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 12.png","url":"https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 12.zip"}]
+[
+  {
+    "id": "Christmas 5",
+    "key": "461:354",
+    "name": "Christmas 5",
+    "thumbnail": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 5.png",
+    "url": "https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 5.zip"
+  },
+  {
+    "id": "Christmas 8",
+    "key": "461:357",
+    "name": "Christmas 8",
+    "thumbnail": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 8.png",
+    "url": "https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 8.zip"
+  },
+  {
+    "id": "Christmas 7",
+    "key": "461:363",
+    "name": "Christmas 7",
+    "thumbnail": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 7.png",
+    "url": "https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 7.zip"
+  },
+  {
+    "id": "Christmas 2",
+    "key": "461:371",
+    "name": "Christmas 2",
+    "thumbnail": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 2.png",
+    "url": "https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 2.zip"
+  },
+  {
+    "id": "Christmas 1",
+    "key": "461:374",
+    "name": "Christmas 1",
+    "thumbnail": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 1.png",
+    "url": "https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 1.zip"
+  },
+  {
+    "id": "Christmas 9",
+    "key": "461:385",
+    "name": "Christmas 9",
+    "thumbnail": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 9.png",
+    "url": "https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 9.zip"
+  },
+  {
+    "id": "Christmas 10",
+    "key": "461:391",
+    "name": "Christmas 10",
+    "thumbnail": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 10.png",
+    "url": "https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 10.zip"
+  },
+  {
+    "id": "Christmas 11",
+    "key": "509:2",
+    "name": "Christmas 11",
+    "thumbnail": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 11.png",
+    "url": "https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 11.zip"
+  },
+  {
+    "id": "Christmas 12",
+    "key": "509:6",
+    "name": "Christmas 12",
+    "thumbnail": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 12.png",
+    "url": "https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 12.zip"
+  },
+  {
+    "id": "Christmas 13",
+    "key": "588:2",
+    "name": "Christmas 13",
+    "thumbnail": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 13.png",
+    "url": "https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 13.zip"
+  },
+  {
+    "id": "Christmas 14",
+    "key": "588:7",
+    "name": "Christmas 14",
+    "thumbnail": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 14.png",
+    "url": "https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 14.zip"
+  },
+  {
+    "id": "Christmas 15",
+    "key": "588:13",
+    "name": "Christmas 15",
+    "thumbnail": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 15.png",
+    "url": "https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 15.zip"
+  },
+  {
+    "id": "Christmas 17",
+    "key": "588:17",
+    "name": "Christmas 17",
+    "thumbnail": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/template/Cover_Christmas 17.png",
+    "url": "https://github.com/HDrecord/SnapArt/raw/main/template/Christmas 17.zip"
+  }
+]
