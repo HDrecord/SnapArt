@@ -491,6 +491,20 @@
                 "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_golden_orange.jpeg"
             }
+        ],
+        "shapes": [
+            {
+                "type": 1,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_orange.jpeg"
+            },
+            {
+                "type": 2,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_orange.jpeg"
+            },
+            {
+                "type": 3,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_orange.jpeg"
+            }
         ]
     }
 }
