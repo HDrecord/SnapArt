@@ -1,0 +1,495 @@
+{
+    "lipstick": {
+        "colorCategories": [
+            {
+                "title": {
+                    "ar": "لا شيء",
+                    "de": "Keiner",
+                    "en": "None",
+                    "es": "Ninguno",
+                    "fr": "Aucun",
+                    "hi": "कोई नहीं",
+                    "ja": "なし",
+                    "ko": "없음",
+                    "pt": "Nenhum"
+                },
+                "requireVip": false,
+                "defaultValue": 100,
+                "hex": "#B4332D",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_none.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "كرزي أحمر",
+                    "de": "Kirschrot",
+                    "en": "Cherry Red",
+                    "es": "Rojo Cereza",
+                    "fr": "Rouge Cerise",
+                    "hi": "चेरी लाल",
+                    "ja": "チェリーレッド",
+                    "ko": "체리 레드",
+                    "pt": "Vermelho Cereja"
+                },
+                "requireVip": false,
+                "defaultValue": 100,
+                "hex": "#B4332D",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_cherry_red.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "مرجاني وردي",
+                    "de": "Korallenrosa",
+                    "en": "Coral Pink",
+                    "es": "Rosa Coral",
+                    "fr": "Rose Corail",
+                    "hi": "कोरल गुलाबी",
+                    "ja": "コーラルピンク",
+                    "ko": "코랄 핑크",
+                    "pt": "Rosa Coral"
+                },
+                "requireVip": false,
+                "defaultValue": 100,
+                "hex": "#CD605C",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_coral_pink.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "وردي منفوش",
+                    "de": "Puderrosa",
+                    "en": "Puff Pink",
+                    "es": "Rosa Borla",
+                    "fr": "Rose Nacrée",
+                    "hi": "पफ गुलाबी",
+                    "ja": "パフピンク",
+                    "ko": "퍼프 핑크",
+                    "pt": "Rosa Puff"
+                },
+                "requireVip": true,
+                "defaultValue": 100,
+                "hex": "#C04865",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_puff_pink.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "قرمزي ساطع",
+                    "de": "Helles Kardinalrot",
+                    "en": "Bright Scarlet",
+                    "es": "Escarlata Brillante",
+                    "fr": "Écarlate Brillant",
+                    "hi": "उज्ज्वल सुर्ख",
+                    "ja": "ブライトスカーレット",
+                    "ko": "밝은 스칼렛",
+                    "pt": "Escarlate Brilhante"
+                },
+                "requireVip": false,
+                "defaultValue": 100,
+                "hex": "#BA4934",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_bright_scarlet.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "توت أحمر",
+                    "de": "Beerenrot",
+                    "en": "Berry Red",
+                    "es": "Rojo Baya",
+                    "fr": "Rouge Baie",
+                    "hi": "बेरी लाल",
+                    "ja": "ベリーレッド",
+                    "ko": "베리 레드",
+                    "pt": "Vermelho Baga"
+                },
+                "requireVip": true,
+                "defaultValue": 100,
+                "hex": "#C13D4A",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_berry_red.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "ياقوتي",
+                    "de": "Rubinrot",
+                    "en": "Ruby",
+                    "es": "Rubí",
+                    "fr": "Rubis",
+                    "hi": "रूबी",
+                    "ja": "ルビー",
+                    "ko": "루비",
+                    "pt": "Rubi"
+                },
+                "requireVip": true,
+                "defaultValue": 100,
+                "hex": "#C11D33",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_ruby.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "خشخاش أحمر",
+                    "de": "Mohnrot",
+                    "en": "Poppy Red",
+                    "es": "Rojo Amapola",
+                    "fr": "Rouge Pavot",
+                    "hi": "पोपी लाल",
+                    "ja": "ポピーレッド",
+                    "ko": "양귀비 빨강",
+                    "pt": "Vermelho Papoula"
+                },
+                "requireVip": false,
+                "defaultValue": 100,
+                "hex": "#A4332C",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_poppy_red.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "طيني",
+                    "de": "Erdbraun",
+                    "en": "Earth Brown",
+                    "es": "Marrón Tierra",
+                    "fr": "Terre Brune",
+                    "hi": "पृथ्वी भूरा",
+                    "ja": "アースブラウン",
+                    "ko": "어스 브라운",
+                    "pt": "Terra Castanha"
+                },
+                "requireVip": false,
+                "defaultValue": 100,
+                "hex": "#803830",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_earth_brown.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "برغندي",
+                    "de": "Burgunderrot",
+                    "en": "Burgundy",
+                    "es": "Burdeos",
+                    "fr": "Bordeaux",
+                    "hi": "बरगंडी",
+                    "ja": "バーガンディー",
+                    "ko": "버건디",
+                    "pt": "Borgonha"
+                },
+                "requireVip": true,
+                "defaultValue": 100,
+                "hex": "#862435",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_burgundy.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "كرزي داكن",
+                    "de": "Dunkel Kirsche",
+                    "en": "Dark Cherry",
+                    "es": "Cereza Oscura",
+                    "fr": "Cerise Foncé",
+                    "hi": "गहरा चेरी",
+                    "ja": "ダークチェリー",
+                    "ko": "다크 체리",
+                    "pt": "Cereja Escura"
+                },
+                "requireVip": true,
+                "defaultValue": 100,
+                "hex": "#4F262B",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_dark_cherry.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "زيتوني",
+                    "de": "Olivgrün",
+                    "en": "Olive Green",
+                    "es": "Verde Oliva",
+                    "fr": "Vert Olive",
+                    "hi": "ऑलिव ग्रीन",
+                    "ja": "オリーブグリーン",
+                    "ko": "올리브 그린",
+                    "pt": "Verde Oliva"
+                },
+                "requireVip": false,
+                "defaultValue": 100,
+                "hex": "#5D7A1C",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_olive_green.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "وردي زهري",
+                    "de": "Blumenrosa",
+                    "en": "Floral Pink",
+                    "es": "Rosa Floral",
+                    "fr": "Rose Floral",
+                    "hi": "फ्लोरल पिंक",
+                    "ja": "フローラルピンク",
+                    "ko": "플로럴 핑크",
+                    "pt": "Rosa Floral"
+                },
+                "requireVip": true,
+                "defaultValue": 100,
+                "hex": "#BC3A82",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_floral_pink.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "أرجواني ملكي",
+                    "de": "Königliches Violett",
+                    "en": "Royal Purple",
+                    "es": "Púrpura Real",
+                    "fr": "Violet Royal",
+                    "hi": "रॉयल पर्पल",
+                    "ja": "ロイヤルパープル",
+                    "ko": "로열 퍼플",
+                    "pt": "Roxo Real"
+                },
+                "requireVip": true,
+                "defaultValue": 100,
+                "hex": "#614793",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_royal_purple.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "أخضر زمردي",
+                    "de": "Smaragdgrün",
+                    "en": "Emerald Green",
+                    "es": "Verde Esmeralda",
+                    "fr": "Vert Émeraude",
+                    "hi": "एमराल्ड ग्रीन",
+                    "ja": "エメラルドグリーン",
+                    "ko": "에메랄드 그린",
+                    "pt": "Verde Esmeralda"
+                },
+                "requireVip": true,
+                "defaultValue": 100,
+                "hex": "#41817A",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_emerald_green.jpeg"
+            }
+        ]
+    },
+    "blush": {
+        "shapes": [
+            {
+                "type": "a1",
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/shapes/a1.png"
+            },
+            {
+                "type": "a2",
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/shapes/a2.png"
+            },
+            {
+                "type": "a3",
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/shapes/a3.png"
+            },
+            {
+                "type": "a4",
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/shapes/a4.png"
+            },
+            {
+                "type": "a5",
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/shapes/a5.png"
+            },
+            {
+                "type": "a6",
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/shapes/a6.png"
+            }
+        ],
+        "colorCategories": [
+            {
+                "title": {
+                    "ar": "لا شيء",
+                    "de": "Keiner",
+                    "en": "None",
+                    "es": "Ninguno",
+                    "fr": "Aucun",
+                    "hi": "कोई नहीं",
+                    "ja": "なし",
+                    "ko": "없음",
+                    "pt": "Nenhum"
+                },
+                "requireVip": false,
+                "defaultValue": 100,
+                "hex": "#B4332D",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_none.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "حجاب وردي",
+                    "de": "Rosenschleier",
+                    "en": "Rosy Veil",
+                    "es": "Velo Rosado",
+                    "fr": "Voile Rosé",
+                    "hi": "रोज़ी वेइल",
+                    "ja": "ローズベール",
+                    "ko": "로지 베일",
+                    "pt": "Véu Rosado"
+                },
+                "requireVip": false,
+                "defaultValue": 100,
+                "hex": "#F6B4A3",
+                "maxOpacity": 0.6,
+                "shapeType": "a1",
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_rosy_veil.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "وردي بتلة",
+                    "de": "Blütenblatt Rosa",
+                    "en": "Petal Pink",
+                    "es": "Rosa Pétalo",
+                    "fr": "Rose Pétale",
+                    "hi": "पंखुड़ी गुलाबी",
+                    "ja": "ペタルピンク",
+                    "ko": "페탈 핑크",
+                    "pt": "Rosa Pétala"
+                },
+                "requireVip": false,
+                "defaultValue": 100,
+                "hex": "#F6B4A3",
+                "maxOpacity": 0.6,
+                "shapeType": "a2",
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_petal_pink.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "تفتح وردي",
+                    "de": "Blütenrosa",
+                    "en": "Blush Bloom",
+                    "es": "Floración Rosada",
+                    "fr": "Floraison Rose",
+                    "hi": "ब्लश ब्लूम",
+                    "ja": "ブラッシュブルーム",
+                    "ko": "블러쉬 블룸",
+                    "pt": "Flor Rosada"
+                },
+                "requireVip": true,
+                "defaultValue": 100,
+                "hex": "#F6B4A3",
+                "maxOpacity": 0.6,
+                "shapeType": "a3",
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_blush_bloom.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "مرجان الغروب",
+                    "de": "Sonnenuntergang Koralle",
+                    "en": "Sunset Coral",
+                    "es": "Coral Atardecer",
+                    "fr": "Corail Couchant",
+                    "hi": "सनसेट कोरल",
+                    "ja": "サンセットコーラル",
+                    "ko": "선셋 코랄",
+                    "pt": "Coral Poente"
+                },
+                "requireVip": false,
+                "defaultValue": 100,
+                "hex": "#F6B497",
+                "maxOpacity": 0.6,
+                "shapeType": "a4",
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_sunset_coral.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "توهج اليوسفي",
+                    "de": "Mandarinen Glanz",
+                    "en": "Tangerine Glow",
+                    "es": "Brillo Mandarina",
+                    "fr": "Éclat Mandarine",
+                    "hi": "टैंजरीन ग्लो",
+                    "ja": "タンジェリングロー",
+                    "ko": "탠저린 글로우",
+                    "pt": "Brilho Tangerina"
+                },
+                "requireVip": false,
+                "defaultValue": 100,
+                "hex": "#F6B497",
+                "maxOpacity": 0.6,
+                "shapeType": "a5",
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_tangerine_glow.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "مشمش ناعم",
+                    "de": "Weiche Aprikose",
+                    "en": "Soft Apricot",
+                    "es": "Albaricoque Suave",
+                    "fr": "Abricot Doux",
+                    "hi": "सॉफ्ट एप्रिकॉट",
+                    "ja": "ソフトアプリコット",
+                    "ko": "소프트 애프리콧",
+                    "pt": "Damasco Suave"
+                },
+                "requireVip": true,
+                "defaultValue": 100,
+                "hex": "#F6B497",
+                "maxOpacity": 0.6,
+                "shapeType": "a6",
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_soft_apricot.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "كرز بوب",
+                    "de": "Kirsch Pop",
+                    "en": "Cherry Pop",
+                    "es": "Pop de Cereza",
+                    "fr": "Pop Cerise",
+                    "hi": "चेरी पॉप",
+                    "ja": "チェリーポップ",
+                    "ko": "체리 팝",
+                    "pt": "Pop de Cereja"
+                },
+                "requireVip": false,
+                "defaultValue": 100,
+                "hex": "#F3B8AD",
+                "maxOpacity": 0.6,
+                "shapeType": "a1",
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_cherry_pop.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "خوخ فليرت",
+                    "de": "Pfirsich Flirt",
+                    "en": "Peach Flirt",
+                    "es": "Coqueteo Melocotón",
+                    "fr": "Flirt Pêche",
+                    "hi": "पीच फ्लर्ट",
+                    "ja": "ピーチフラート",
+                    "ko": "피치 플러트",
+                    "pt": "Flerte Pêssego"
+                },
+                "requireVip": false,
+                "defaultValue": 100,
+                "hex": "#F3B8AD",
+                "maxOpacity": 0.6,
+                "shapeType": "a2",
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_peach_flirt.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "احمرار عاري",
+                    "de": "Natürliche Röte",
+                    "en": "Nude Flush",
+                    "es": "Rubor Natural",
+                    "fr": "Teint Nude",
+                    "hi": "न्यूड फ्लश",
+                    "ja": "ヌードフラッシュ",
+                    "ko": "누드 플러시",
+                    "pt": "Rubor Natural"
+                },
+                "requireVip": false,
+                "defaultValue": 100,
+                "hex": "#F3B8AD",
+                "maxOpacity": 0.6,
+                "shapeType": "a3",
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_nude_flush.jpeg"
+            }
+        ]
+    }
+}
