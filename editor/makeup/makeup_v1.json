@@ -32,7 +32,7 @@
                     "pt": "Vermelho Cereja"
                 },
                 "requireVip": false,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#B4332D",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_cherry_red.jpeg"
@@ -86,7 +86,7 @@
                     "pt": "Escarlate Brilhante"
                 },
                 "requireVip": false,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#BA4934",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_bright_scarlet.jpeg"
@@ -104,7 +104,7 @@
                     "pt": "Vermelho Baga"
                 },
                 "requireVip": true,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#C13D4A",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_berry_red.jpeg"
@@ -122,7 +122,7 @@
                     "pt": "Rubi"
                 },
                 "requireVip": true,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#C11D33",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_ruby.jpeg"
@@ -140,7 +140,7 @@
                     "pt": "Vermelho Papoula"
                 },
                 "requireVip": false,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#A4332C",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_poppy_red.jpeg"
@@ -158,7 +158,7 @@
                     "pt": "Terra Castanha"
                 },
                 "requireVip": false,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#803830",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_earth_brown.jpeg"
@@ -176,7 +176,7 @@
                     "pt": "Borgonha"
                 },
                 "requireVip": true,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#862435",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_burgundy.jpeg"
@@ -194,7 +194,7 @@
                     "pt": "Cereja Escura"
                 },
                 "requireVip": true,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#4F262B",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_dark_cherry.jpeg"
@@ -212,7 +212,7 @@
                     "pt": "Verde Oliva"
                 },
                 "requireVip": false,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#5D7A1C",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_olive_green.jpeg"
@@ -230,7 +230,7 @@
                     "pt": "Rosa Floral"
                 },
                 "requireVip": true,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#BC3A82",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_floral_pink.jpeg"
@@ -248,7 +248,7 @@
                     "pt": "Roxo Real"
                 },
                 "requireVip": true,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#614793",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_royal_purple.jpeg"
@@ -266,7 +266,7 @@
                     "pt": "Verde Esmeralda"
                 },
                 "requireVip": true,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#41817A",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_emerald_green.jpeg"
@@ -320,7 +320,7 @@
                     "pt": "Laranja"
                 },
                 "requireVip": false,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#FFA07A",
                 "maxOpacity": 0.6,
                 "shapeType": "a1",
@@ -339,7 +339,7 @@
                     "pt": "Ameixa"
                 },
                 "requireVip": false,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#D87093",
                 "maxOpacity": 0.6,
                 "shapeType": "a2",
@@ -358,7 +358,7 @@
                     "pt": "Ouro Rosa"
                 },
                 "requireVip": true,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#B76E79",
                 "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_rose_gold.jpeg"
@@ -376,7 +376,7 @@
                     "pt": "Marrom"
                 },
                 "requireVip": false,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#A0522D",
                 "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_brown.jpeg"
@@ -394,7 +394,7 @@
                     "pt": "Vermelho Claro"
                 },
                 "requireVip": false,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#FF6B6B",
                 "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_right_red.jpeg"
@@ -412,7 +412,7 @@
                     "pt": "Bordô Profundo"
                 },
                 "requireVip": true,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#7B312E",
                 "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_deep_burgundy.jpeg"
@@ -430,7 +430,7 @@
                     "pt": "Vermelho Vinho"
                 },
                 "requireVip": false,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#9B3833",
                 "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_wine_red.jpeg"
@@ -448,7 +448,7 @@
                     "pt": "Vermelho Cereja"
                 },
                 "requireVip": false,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#D9232F",
                 "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_cherry_red.jpeg"
@@ -466,7 +466,7 @@
                     "pt": "Rosa Salmão"
                 },
                 "requireVip": false,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#DC6964",
                 "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_salmon_pink.jpeg"
@@ -484,7 +484,7 @@
                     "pt": "Vermelho Rubi"
                 },
                 "requireVip": true,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#940B13",
                 "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_ruby_red.jpeg"
@@ -502,7 +502,7 @@
                     "pt": "Rosa Coral"
                 },
                 "requireVip": false,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#DB6A64",
                 "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_coral_pink.jpeg"
@@ -520,7 +520,7 @@
                     "pt": "Pêssego"
                 },
                 "requireVip": false,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#C3725F",
                 "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_peach.jpeg"
@@ -538,7 +538,7 @@
                     "pt": "Laranja Dourado"
                 },
                 "requireVip": true,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#E4864C",
                 "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_golden_orange.jpeg"
