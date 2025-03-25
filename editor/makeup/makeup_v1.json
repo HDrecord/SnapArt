@@ -14,7 +14,7 @@
                     "pt": "Nenhum"
                 },
                 "requireVip": false,
-                "defaultValue": 100,
+                "defaultValue": 0,
                 "hex": "#B4332D",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/none.png"
@@ -35,7 +35,7 @@
                 "defaultValue": 100,
                 "hex": "#B4332D",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/examples/lipstick_cherry_red.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_cherry_red.jpeg"
             },
             {
                 "title": {
@@ -53,7 +53,7 @@
                 "defaultValue": 100,
                 "hex": "#CD605C",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/examples/lipstick_coral_pink.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_coral_pink.jpeg"
             },
             {
                 "title": {
@@ -71,7 +71,7 @@
                 "defaultValue": 100,
                 "hex": "#C04865",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/examples/lipstick_puff_pink.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_puff_pink.jpeg"
             },
             {
                 "title": {
@@ -89,7 +89,7 @@
                 "defaultValue": 100,
                 "hex": "#BA4934",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/examples/lipstick_bright_scarlet.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_bright_scarlet.jpeg"
             },
             {
                 "title": {
@@ -107,7 +107,7 @@
                 "defaultValue": 100,
                 "hex": "#C13D4A",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/examples/lipstick_berry_red.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_berry_red.jpeg"
             },
             {
                 "title": {
@@ -125,7 +125,7 @@
                 "defaultValue": 100,
                 "hex": "#C11D33",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/examples/lipstick_ruby.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_ruby.jpeg"
             },
             {
                 "title": {
@@ -143,7 +143,7 @@
                 "defaultValue": 100,
                 "hex": "#A4332C",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/examples/lipstick_poppy_red.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_poppy_red.jpeg"
             },
             {
                 "title": {
@@ -161,7 +161,7 @@
                 "defaultValue": 100,
                 "hex": "#803830",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/examples/lipstick_earth_brown.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_earth_brown.jpeg"
             },
             {
                 "title": {
@@ -179,7 +179,7 @@
                 "defaultValue": 100,
                 "hex": "#862435",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/examples/lipstick_burgundy.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_burgundy.jpeg"
             },
             {
                 "title": {
@@ -197,7 +197,7 @@
                 "defaultValue": 100,
                 "hex": "#4F262B",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/examples/lipstick_dark_cherry.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_dark_cherry.jpeg"
             },
             {
                 "title": {
@@ -215,7 +215,7 @@
                 "defaultValue": 100,
                 "hex": "#5D7A1C",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/examples/lipstick_olive_green.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_olive_green.jpeg"
             },
             {
                 "title": {
@@ -233,7 +233,7 @@
                 "defaultValue": 100,
                 "hex": "#BC3A82",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/examples/lipstick_floral_pink.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_floral_pink.jpeg"
               },
               {
                 "title": {
@@ -251,7 +251,7 @@
                 "defaultValue": 100,
                 "hex": "#614793",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/examples/lipstick_royal_purple.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_royal_purple.jpeg"
               },
               {
                 "title": {
@@ -269,7 +269,7 @@
                 "defaultValue": 100,
                 "hex": "#41817A",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/examples/lipstick_emerald_green.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_emerald_green.jpeg"
               }
         ]
     },
@@ -277,15 +277,15 @@
         "shapes": [
             {
                 "type": "a1",
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/shapes/a1.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/shapes/a1.jpeg"
             },
             {
                 "type": "a2",
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/shapes/a2.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/shapes/a2.jpeg"
             },
             {
                 "type": "a3",
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/shapes/a3.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/shapes/a3.jpeg"
             }
         ],
         "colorCategories": [
@@ -302,7 +302,7 @@
                     "pt": "Nenhum"
                 },
                 "requireVip": false,
-                "defaultValue": 100,
+                "defaultValue": 0,
                 "hex": "#B4332D",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/none.png"
@@ -324,7 +324,7 @@
                 "hex": "#FFA07A",
                 "maxOpacity": 0.6,
                 "shapeType": "a1",
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_orange.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_orange.jpeg"
             },
             {
                 "title": {
