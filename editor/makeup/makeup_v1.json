@@ -50,7 +50,7 @@
                     "pt": "Rosa Coral"
                 },
                 "requireVip": false,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#CD605C",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_coral_pink.jpeg"
@@ -68,7 +68,7 @@
                     "pt": "Rosa Puff"
                 },
                 "requireVip": true,
-                "defaultValue": 100,
+                "defaultValue": 50,
                 "hex": "#C04865",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/lipstick_resource/examples/lipstick_puff_pink.jpeg"
