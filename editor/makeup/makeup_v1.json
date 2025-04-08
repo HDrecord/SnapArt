@@ -544,5 +544,99 @@
                 "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/blush_resource/examples/blush_golden_orange.jpeg"
             }
         ]
+    },
+    "eyebrow": {
+        "colorCategories": [
+            {
+                "title": {
+                    "ar": "لا شيء",
+                    "de": "Keiner",
+                    "en": "None",
+                    "es": "Ninguno",
+                    "fr": "Aucun",
+                    "hi": "कोई नहीं",
+                    "ja": "なし",
+                    "ko": "없음",
+                    "pt": "Nenhum"
+                },
+                "requireVip": false,
+                "defaultValue": 0,
+                "hex": "#B4332D",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/none.png"
+            },
+            {
+                "title": {
+                    "ar": "كرزي أحمر",
+                    "de": "Kirschrot",
+                    "en": "Cherry Red",
+                    "es": "Rojo Cereza",
+                    "fr": "Rouge Cerise",
+                    "hi": "चेरी लाल",
+                    "ja": "チェリーレッド",
+                    "ko": "체리 레드",
+                    "pt": "Vermelho Cereja"
+                },
+                "requireVip": false,
+                "defaultValue": 50,
+                "hex": "#B4332D",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow.png"
+            },
+            {
+                "title": {
+                    "ar": "مرجاني وردي",
+                    "de": "Korallenrosa",
+                    "en": "Coral Pink",
+                    "es": "Rosa Coral",
+                    "fr": "Rose Corail",
+                    "hi": "कोरल गुलाबी",
+                    "ja": "コーラルピンク",
+                    "ko": "코랄 핑크",
+                    "pt": "Rosa Coral"
+                },
+                "requireVip": false,
+                "defaultValue": 50,
+                "hex": "#CD605C",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow2.png"
+            },
+            {
+                "title": {
+                    "ar": "وردي منفوش",
+                    "de": "Puderrosa",
+                    "en": "Puff Pink",
+                    "es": "Rosa Borla",
+                    "fr": "Rose Nacrée",
+                    "hi": "पफ गुलाबी",
+                    "ja": "パフピンク",
+                    "ko": "퍼프 핑크",
+                    "pt": "Rosa Puff"
+                },
+                "requireVip": true,
+                "defaultValue": 50,
+                "hex": "#C04865",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow.png"
+            },
+            {
+                "title": {
+                    "ar": "قرمزي ساطع",
+                    "de": "Helles Kardinalrot",
+                    "en": "Bright Scarlet",
+                    "es": "Escarlata Brillante",
+                    "fr": "Écarlate Brillant",
+                    "hi": "उज्ज्वल सुर्ख",
+                    "ja": "ブライトスカーレット",
+                    "ko": "밝은 스칼렛",
+                    "pt": "Escarlate Brilhante"
+                },
+                "requireVip": false,
+                "defaultValue": 50,
+                "hex": "#BA4934",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow2.png"
+            }
+        ]
     }
 }
