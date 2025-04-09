@@ -563,7 +563,8 @@
                 "defaultValue": 0,
                 "hex": "#B4332D",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/none.png"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/none.png",
+                "sourceUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/shapes/none.png"
             },
             {
                 "title": {
@@ -581,7 +582,8 @@
                 "defaultValue": 50,
                 "hex": "#B4332D",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow1.png"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow1.png",
+                "sourceUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/shapes/eyebrow1.png"
             },
             {
                 "title": {
@@ -599,7 +601,9 @@
                 "defaultValue": 50,
                 "hex": "#CD605C",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow2.png"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow2.png",
+                "sourceUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/shapes/eyebrow2.png"
+
             },
             {
                 "title": {
@@ -617,7 +621,8 @@
                 "defaultValue": 50,
                 "hex": "#C04865",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow3.png"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow3.png",
+                "sourceUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/shapes/eyebrow3.png"
             },
             {
                 "title": {
@@ -635,7 +640,8 @@
                 "defaultValue": 50,
                 "hex": "#BA4934",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow4.png"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow4.png",
+                "sourceUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/shapes/eyebrow4.png"
             },
             {
                 "title": {
@@ -653,7 +659,8 @@
                 "defaultValue": 50,
                 "hex": "#BA4934",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow5.png"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow5.png",
+                "sourceUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/shapes/eyebrow5.png"
             }
         ]
     }
