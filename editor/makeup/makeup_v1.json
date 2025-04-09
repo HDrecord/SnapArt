@@ -581,7 +581,7 @@
                 "defaultValue": 50,
                 "hex": "#B4332D",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow.png"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow1.png"
             },
             {
                 "title": {
@@ -617,7 +617,7 @@
                 "defaultValue": 50,
                 "hex": "#C04865",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow.png"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow3.png"
             },
             {
                 "title": {
@@ -635,7 +635,25 @@
                 "defaultValue": 50,
                 "hex": "#BA4934",
                 "maxOpacity": 1.0,
-                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow2.png"
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow4.png"
+            },
+            {
+                "title": {
+                    "ar": "قرمزي ساطع",
+                    "de": "Helles Kardinalrot",
+                    "en": "Bright Scarlet",
+                    "es": "Escarlata Brillante",
+                    "fr": "Écarlate Brillant",
+                    "hi": "उज्ज्वल सुर्ख",
+                    "ja": "ブライトスカーレット",
+                    "ko": "밝은 스칼렛",
+                    "pt": "Escarlate Brilhante"
+                },
+                "requireVip": false,
+                "defaultValue": 50,
+                "hex": "#BA4934",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/HDrecord/SnapArt/main/editor/makeup/eyebrow_resource/examples/eyebrow5.png"
             }
         ]
     }
